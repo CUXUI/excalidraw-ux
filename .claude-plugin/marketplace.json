@@ -1,0 +1,27 @@
+{
+  "name": "excalidraw-ux",
+  "owner": {
+    "name": "Comunidad UX/UI",
+    "url": "https://github.com/ComunidadUXUI"
+  },
+  "metadata": {
+    "description": "16 tipos de diagrama de UX editables, en estilo hecho a mano.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "excalidraw-ux",
+      "description": "16 tipos de diagrama de UX editables, en estilo hecho a mano.",
+      "source": "./",
+      "strict": false,
+      "version": "1.0.0",
+      "author": {
+        "name": "Comunidad UX/UI"
+      },
+      "license": "CC-BY-NC-SA-4.0",
+      "skills": [
+        "./skills/excalidraw-visualizations"
+      ]
+    }
+  ]
+}
